@@ -8,6 +8,7 @@ A Little script that automates unsubscribing All Youtube channels.
 - go to console tab
 - enter the code
 - edit first 2 lines as you like
+- timeouts in seconds
 
 ## why we need timeout
 we need timeouts to prevent youtube blocking. heir firewall intend to block too many requests in short time of period. 
