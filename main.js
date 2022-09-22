@@ -1,5 +1,5 @@
-var waitTimeout=1;
-var coolDownTimeout=7;
+var waitTimeout=2;
+var coolDownTimeout=14;
 var count = document.querySelectorAll(
   "ytd-channel-renderer tp-yt-paper-button.style-scope.ytd-subscribe-button-renderer"
 );
