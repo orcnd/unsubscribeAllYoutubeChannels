@@ -11,7 +11,7 @@ A Little script that automates unsubscribing All Youtube channels.
 - timeouts in seconds
 
 ## why we need timeout
-we need timeouts to prevent youtube blocking. heir firewall intend to block too many requests in short time of period. 
+we need timeouts to prevent youtube blocking. their firewall intend to block too many requests in short time of period. 
 i don't know exact limits of their firewall. so you might need to re run the script more than once.
 
 ## have fun
